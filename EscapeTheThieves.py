@@ -4,8 +4,6 @@ import pickapathstory
 import winsound
 from time import sleep
 
-#INTRODUCTION
-
 
 ready = input("Are you ready to play? ")
 winsound.PlaySound("./etv_audio/bg.wav", winsound.SND_ASYNC)
@@ -19,8 +17,8 @@ else:
 sleep(1)
 pickapathstory.f1()
 
-do = int(input(""))
-if do == 1:
+do = (input(""))
+if do == "1":
     winsound.PlaySound("./etv_audio/knife_kill1.wav", winsound.SND_LOOP)
     pickapathstory.f1fail()
 else:
