@@ -11,7 +11,7 @@ def intro():
         sys.stdout.write(x)
         sys.stdout.flush()
 
-i = "\n*************************************************\nWelcome to the game, Escape the Thieves!\n*************************************************\n\nIn this game you are playing a hotel guest who has just entered her best friends apartment to have dinner.\nAs you burst in unannounced as always, your clumsy foot awkwardly meets a patch of cold blood on the floor. As your eyes follow the blotched red carpet, as if a sharp object had hit you in the eye, you see it. Her lifeless body decorated the ground like a twister mat with all her culprits standing over it avoiding red. Your panic spikes as they finally notice you and proceed to chase you out of the apartment.\n\nYou flee into your apartment a few doors down and lock the door but they are quick on your tail and are trying to break the door as we speak!\n\nWhat do you do?"
+i = "\n*************************************************\nWelcome to the game, Escape the Thieves!\n*************************************************\n\nIn this game you are playing a hotel guest who has just entered her best friends apartment to have dinner.\nAs you burst in unannounced as always, your clumsy foot awkwardly meets a patch of cold blood on the floor. As your eyes follow the blotched red carpet, you see it. Her lifeless body decorated the ground like a twister mat with all her culprits standing over it avoiding red. Your panic spikes as they finally notice you and proceed to chase you out of the apartment.\n\nYou flee into your apartment a few doors down and lock the door but they are quick on your tail and are trying to break the door as we speak!\n\nWhat do you do?"
 
 #Fork 1 - Intro
 
