@@ -1,4 +1,4 @@
-#Escape The Thieves by Andy H 20220606
+#Escape The Thieves by bamb1zzle
 
 import pickapathstory
 import winsound
