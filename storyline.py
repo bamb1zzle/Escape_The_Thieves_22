@@ -1,4 +1,4 @@
-#PickAPath Text Story - Andy H 20220606
+#Choose your own adventure text story - bamb1zzle
 import sys
 
 from time import sleep
